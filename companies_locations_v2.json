@@ -1,25 +1,126 @@
 {
   "companies": [
-    "Nefzger",
-    "Weller Gruppe",
-    "Menton",
-    "Widmann Winterholler",
-    "Autohaus Briem",
-    "Autohaus Ehrl",
-    "Cuntz",
-    "Fett und Wirtz",
-    "Karl Co",
-    "Motorheimat",
-    "Reisacher",
-    "Sperber",
-    "Timmermanns",
-    "Krah-Enders",
-    "Becker Tiemann",
-    "Geyrhofer",
-    "Lell",
-    "Overdreef",
-    "Spaett",
-    "Gottstein"
+{
+  "name": "Nefzger",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Weller Gruppe",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Menton",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Widmann Winterholler",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Autohaus Briem",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Autohaus Ehrl",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Cuntz",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Fett und Wirtz",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Karl Co",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Motorheimat",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Reisacher",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Sperber",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Timmermanns",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Krah-Enders",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Becker Tiemann",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Geyrhofer",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Lell",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Overdreef",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Spaett",
+  "URL_Name": "",
+  "URL_ID": ""
+},
+
+{
+  "name": "Gottstein",
+  "URL_Name": "",
+  "URL_ID": ""
+}
+
+
   ],
 "locations": [
   { "name": "Reutlingen", "order": 1},
