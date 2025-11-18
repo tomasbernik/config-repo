@@ -129,9 +129,7 @@
   { "name": "Lichtenfels", "order": 4},
   { "name": "Speyer", "order": 5},
   { "name": "Neustadt", "order": 6},
-  { "name": "Wiesbaden", "order": 7},
-  { "name": "Mainz", "order": 8},
-  { "name": "Rüsselsheim", "order": 9},
+  
 
   
   
@@ -150,31 +148,36 @@
   { "name": "Wasserburg", "order": 24},
   { "name": "Nürtingen", "order": 25},
   { "name": "Filderstadt", "order": 26},
-  { "name": "Ulm", "order": 27, "color": "FF90EE90" },
-  { "name": "Spandauer Damm", "order": 28, "color": "FF90EE90" },
-  { "name": "Nonnendammallee", "order": 29, "color": "FF90EE90" },
-  { "name": "Geldern", "order": 30, "color": "FF90EE90" },
-  { "name": "Dachau", "order": 31, "color": "FF90EE90" },
-  { "name": "Potsdam", "order": 32},
   
-
-
-  { "name": "Bünde", "order": 33, "color": "FF90EE90" },
-  { "name": "Lemgo", "order": 34, "color": "FF90EE90" },
-  { "name": "Wels", "order": 35, "color": "FF90EE90" },
-  { "name": "Schwandorf", "order": 36, "color": "FF90EE90" },
-  { "name": "Duisburg", "order": 37, "color": "FF90EE90" },
-  { "name": "Ismaning", "order": 38, "color": "FF90EE90" },
-  { "name": "Erding", "order": 39, "color": "FF90EE90" },
-  { "name": "Freising", "order": 40, "color": "FF90EE90" },
-  { "name": "Binzen", "order": 41, "color": "FF90EE90" }, 
-  
+  { "name": "Wiesbaden", "order": 39},
+  { "name": "Mainz", "order": 40},
+  { "name": "Rüsselsheim", "order": 41},
   { "name": "Schlüchtern", "order": 42},
   { "name": "Bad Hersfeld", "order": 43},
   { "name": "Idstein", "order": 44},
   { "name": "Limburg", "order": 45},
   { "name": "Fulda", "order": 46},
-  { "name": "Maintal", "order": 47}
+  { "name": "Maintal", "order": 47},
+
+  { "name": "Ulm", "order": 127, "color": "FF90EE90" },
+  { "name": "Spandauer Damm", "order": 128, "color": "FF90EE90" },
+  { "name": "Nonnendammallee", "order": 129, "color": "FF90EE90" },
+  { "name": "Geldern", "order": 130, "color": "FF90EE90" },
+  { "name": "Dachau", "order": 131, "color": "FF90EE90" },
+  { "name": "Potsdam", "order": 132},
+  
+
+
+  { "name": "Bünde", "order": 133, "color": "FF90EE90" },
+  { "name": "Lemgo", "order": 134, "color": "FF90EE90" },
+  { "name": "Wels", "order": 135, "color": "FF90EE90" },
+  { "name": "Schwandorf", "order": 136, "color": "FF90EE90" },
+  { "name": "Duisburg", "order": 137, "color": "FF90EE90" },
+  { "name": "Ismaning", "order": 138, "color": "FF90EE90" },
+  { "name": "Erding", "order": 139, "color": "FF90EE90" },
+  { "name": "Freising", "order": 140, "color": "FF90EE90" },
+  { "name": "Binzen", "order": 141, "color": "FF90EE90" } 
+
 ]
 
 }
