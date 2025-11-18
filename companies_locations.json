@@ -133,10 +133,8 @@
   { "name": "Mainz", "order": 8},
   { "name": "Rüsselsheim", "order": 9},
 
-  { "name": "Idstein", "order": 10},
-  { "name": "Limburg", "order": 11},
-  { "name": "Fulda", "order": 12},
-  { "name": "Maintal", "order": 13},
+  
+  
 
   { "name": "Neuss", "order": 14},
   { "name": "Kaarst", "order": 15},
@@ -170,12 +168,13 @@
   { "name": "Erding", "order": 39, "color": "FF90EE90" },
   { "name": "Freising", "order": 40, "color": "FF90EE90" },
   { "name": "Binzen", "order": 41, "color": "FF90EE90" }, 
-  { "name": "Schlüchtern", "order": 42},
-  { "name": "Bad Hersfeld", "order": 43}
   
+  { "name": "Schlüchtern", "order": 42},
+  { "name": "Bad Hersfeld", "order": 43},
+  { "name": "Idstein", "order": 44},
+  { "name": "Limburg", "order": 45},
+  { "name": "Fulda", "order": 46},
+  { "name": "Maintal", "order": 47}
 ]
 
 }
-
-
-
