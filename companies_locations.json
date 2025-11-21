@@ -158,6 +158,7 @@
   { "name": "Limburg", "order": 45},
   { "name": "Fulda", "order": 46},
   { "name": "Maintal", "order": 47},
+  { "name": "Burghaun", "order": 48},
 
   { "name": "Ulm", "order": 127, "color": "FF90EE90" },
   { "name": "Spandauer Damm", "order": 128, "color": "FF90EE90" },
