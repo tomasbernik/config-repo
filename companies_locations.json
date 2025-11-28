@@ -186,7 +186,8 @@
   { "name": "Binzen", "order": 141, "color": "FF90EE90" }, 
   { "name": "Essingen", "order": 142, "color": "FF90EE90" },
   { "name": "Backnang", "order": 143, "color": "FF90EE90" },
-  { "name": "Schorndorf", "order": 144, "color": "FF90EE90" } 
+  { "name": "Schorndorf", "order": 144, "color": "FF90EE90" },
+  { "name": "Eschwege", "order": 145, "color": "FF90EE90" }  
 ]
 
 }
